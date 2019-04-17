@@ -1,0 +1,2 @@
+# Bitcoiner
+A bitcoin clone
